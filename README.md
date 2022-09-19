@@ -1,4 +1,4 @@
-# NLW eSports 
+# NLW eSports Challenge
 
 ![preview](./img/preview.png)
 
